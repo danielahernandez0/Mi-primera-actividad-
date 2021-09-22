@@ -1,0 +1,108 @@
+.iconooutsourcing {
+    background: #000;
+    margin: auto;
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 30px;
+    margin: auto;
+    
+ 
+}
+
+.barra {
+    background: cyan lighten-1!important;
+   
+}
+.color >li > a{
+    color: black !important;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: white;
+}
+
+.containertitulo {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0%;
+    font-size: 50px;
+    color: royalblue;
+}
+
+.bloquetitulo2 {
+    width: 100%;
+    display: inline-block;
+    font-size: 45px;
+    letter-spacing: 1px;
+    margin: 0%;
+    padding-top: 35px;
+    color: red;
+    text-align: center;
+    
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightblue;
+
+    background-image: url(../Imagenes/fondoteoria.jpg);
+    background-attachment: fixed;
+    background-size: 50% ;
+
+}
+
+.container {
+    background-color: lightskyblue;
+}
+
+.containertitulo2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0%;
+    font-size: 50px;
+    color: royalblue;
+    
+}
+
+.parrafotitulo2 {
+    letter-spacing: 1px;
+    font-family: cursive;
+    color: black;
+    text-align: left;
+    margin-left: 85px;
+    margin-top: 45px;
+    text-align: center;
+    font-size: 24px;
+    float: left;
+}
+
+
+footer{
+    width: 100%;
+
+}
+
+.iconosredes {
+    text-align: center;
+
+}
+
+.ajusteicono {
+    display: inline-flex;
+    margin: 50px 35px;
+
+
+}
+
+.textofooter {
+    padding-top: 8px;
+    width: 100%;
+    font-family: cursive;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    background-color: black;
+    height: 80px;
+}
